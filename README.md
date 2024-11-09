@@ -31,7 +31,7 @@ git clone https://github.com/CodeStrong2023/EcommerceHolaMundoAnimal.git
 
 Para poder ejecutar el proyecto con normalidad es necesario tener instalada una versión Node.js igual o superior a la versión 18, además deberá contar con el motor de base de datos MySql.
 
-Por ultimo, se deberá contar con las siguientes tablas dentro de la base de datos:
+Por ùltimo, se deberá contar con las siguientes tablas dentro de la base de datos:
 
 ![Base de datos](/db_diagram.png)
 
